@@ -1,8 +1,6 @@
 
 🧩 Tic Tac Toe
 
-This is a browser-based Tic Tac Toe game built using HTML, Tailwind CSS, and JavaScript. It allows two players to play against each other by taking alternate turns on a 3x3 grid. The game identifies a win or draw automatically and provides an option to restart the game.
-
 📌 Project Description
 
 Tic Tac Toe is a classic logic game, recreated here for the web with a clean UI and responsive design. This project demonstrates the use of DOM manipulation, event handling, and game logic implementation using vanilla JavaScript. The layout is styled using Tailwind CSS for a modern look.
